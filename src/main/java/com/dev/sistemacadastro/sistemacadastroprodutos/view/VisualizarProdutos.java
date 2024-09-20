@@ -176,7 +176,7 @@ public class VisualizarProdutos extends javax.swing.JFrame {
             }
         });
 
-        jButtonBuscarTodosProdutos.setText("Buscas todos produtos");
+        jButtonBuscarTodosProdutos.setText("Buscar todos produtos");
         jButtonBuscarTodosProdutos.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButtonBuscarTodosProdutosActionPerformed(evt);
